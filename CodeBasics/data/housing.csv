@@ -1,0 +1,16 @@
+Location,Bedrooms,Bathrooms,SquareFeet,YearBuilt,Price
+Downtown,3,2,1500,1995,350000
+Suburb,4,NA,2500,2005,450000
+City Center,2,1,900,NA,250000
+Suburb,5,4,NA,2010,600000
+Rural,3,2,1800,1990,275000
+Downtown,NA,1,1000,2000,320000
+Suburb,4,2,2200,2015,NA
+City Center,1,NA,700,1975,200000
+Rural,3,2,NA,1985,260000
+Downtown,3,3,2100,NA,480000
+Suburb,4,3,2300,2018,510000
+City Center,2,2,1200,1995,NA
+Rural,4,NA,2000,1988,310000
+Downtown,1,1,NA,2003,290000
+Suburb,3,2,1700,2007,360000
